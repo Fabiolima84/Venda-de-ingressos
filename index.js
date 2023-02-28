@@ -6,8 +6,6 @@ function calcular(){
        
         valor_total.value = valortotal
        
-            
-        
     }
     function validaquantidade(){
         console.log(quantidade.value)
